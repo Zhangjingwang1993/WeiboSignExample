@@ -25,7 +25,9 @@
      *  App Secret：eb4f99c1fa8338652de66dcd8cadc131
      *
      */
-    
+    // 2.00yOHsNEQeHbyCf77aa0dff9YjuV4C
+    // WeiBo_接口
+    // https://api.weibo.com/2/statuses/public_timeline.json?access_token=2.00yOHsNEQeHbyCf77aa0dff9YjuV4C&count=10&page=1&base_app=0
     UIButton *btnWB_Login = [UIButton buttonWithType:UIButtonTypeCustom];
     btnWB_Login.frame = CGRectMake(50, 50, 200, 50);
     btnWB_Login.backgroundColor = [UIColor blueColor];
